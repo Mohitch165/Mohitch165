@@ -4,16 +4,16 @@
 # Hey Everyone! I'm [Mohit Anil Kumar aka LowkeyLoki05!](https://github.com/Mohitch165)
 <br>
 <div align="center">
-<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
+<a href="https://www.linkedin.com/in/mohitchouhan165uxd/">
   <img alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/amandewatnitrr">
+<a href="https://github.com/Mohitch165">
   <img alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/straw_hat_akd/">
+<a href="https://codepen.io/mohitch1605">
   <img alt="akd's Instagram" width="" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/amandewatnitrr/"  target="_blank">
+<a href="https://leetcode.com/u/user9077an/"  target="_blank">
   <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
 </a>
 </div>
@@ -74,11 +74,6 @@
 - <samp>🌐 Building full stack web apps with a balance of beauty and brains</samp>
 - <samp>🔗 Diving deep into **Web3**, **blockchain**, and the future of decentralized tech</samp>
 - <samp>⚙️ Constantly experimenting, learning, and building cool stuff</samp>
-<br><br>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 <br><br>
 
 ### <h3><b><samp>🧰 Tech I Work With</samp></b><h3>
