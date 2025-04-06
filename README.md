@@ -1,6 +1,5 @@
-<img src="" alt="banner" width="100%" height="200">
-
-
+<img src="https://github.com/Mohitch165/Mohitch165/blob/main/ChatGPT%20Image%20Apr%206,%202025%20at%2012_05_17%20PM.png?raw=true" alt="banner" width="100%" height="450">
+<br>
 
 # Hey Everyone! I'm [Mohit Anil Kumar aka LowkeyLoki05!](https://github.com/Mohitch165)
 <br><br>
