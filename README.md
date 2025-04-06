@@ -24,20 +24,24 @@
 <br><br>
 
 ### 👨‍🎓 About Me
+<br>
 
 - 🎓 Master's in **Human-Computer Interaction** from *University College Dublin*
-- 🧑‍🎓 Bachelor's in **Computer Science Engineering*
+- 🧑‍🎓 Bachelor's in **Computer Science Engineering**
 - 🛠️ I build things that *look good* and *work even better*
 - 🧩 I love solving problems and simplifying complexity
+  <br><br>
 
 ### 🚀 What I'm Into
-
-- 💡 Creating clean, intuitive UIs with **modern JavaScript libraries & frameworks**
+<br>
+- 💡 Creating clean, intuitive UIs with **modern JavaScript libraries** & **frameworks**
 - 🌐 Building full stack web apps with a balance of beauty and brains
 - 🔗 Diving deep into **Web3**, **blockchain**, and the future of decentralized tech
 - ⚙️ Constantly experimenting, learning, and building cool stuff
+<br><br>
 
 ### 🧰 Tech I Work With
+<br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
@@ -48,10 +52,13 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=fff)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
+<br><br>
 
 ### 📫 Let’s Connect
+<br>
 
 Feel free to reach out or check out what I'm building next!  
-🌍 [your-portfolio-link.com] | 💌 [info.mohit321@gmail.com] |
+🌍 [your-portfolio-link.com] | 💌 [info.mohit321@gmail.com]
+<br><br>
 
 > “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
